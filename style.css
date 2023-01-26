@@ -18,6 +18,23 @@ html {
     overflow: hidden;
 }
 
+.btn {
+    width: 15rem;
+    height: 15rem;
+    background-color: #eee;
+    color: rgb(252, 35, 7);
+    position: relative;
+    top: 10rem;
+    left: -40rem;
+    border-radius: 50% 50% 0 50%;
+    border: 0.3rem dashed rgb(253, 35, 7);
+    font-size: 2rem;
+    text-transform: uppercase;
+    letter-spacing: 0.2rem;
+    line-height: 1.5;
+    cursor: pointer;
+}
+
 .table {
     width: 60rem;
     height: 60rem;
